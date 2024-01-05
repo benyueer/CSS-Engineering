@@ -1,0 +1,14 @@
+{
+  "name": "postcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "postcss-cli": "^11.0.0",
+    "postcss-less": "^6.0.0",
+    "postcss-preset-env": "^9.3.0",
+    "precss": "^4.0.0"
+  }
+}

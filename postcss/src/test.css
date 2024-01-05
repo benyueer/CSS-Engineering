@@ -1,0 +1,9 @@
+:root {
+  --color: blue;
+}
+
+.as {
+  background-color: red;
+  transition: all .3s;
+  color: var(--color);
+}

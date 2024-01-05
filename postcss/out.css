@@ -1,0 +1,20 @@
+:root {
+  --color: blue;
+}
+
+.as { 
+  background-color: red;
+  transition: all .3s;
+  color: blue;
+  color: var(--color)
+
+
+}
+
+.as::after {
+    content: '';
+  }
+
+a {
+  color: #333;
+}
